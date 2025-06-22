@@ -1,0 +1,45 @@
+baseURL: https://craigk.me
+languageCode: en-us
+title: Craig Knoblauch
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+    - name: Resume
+      url: https://drive.google.com/file/d/1q3qX4lHtOwgXbwCQicCOyJ9uc8KG6TYD/view?usp=drivesdk
+
+assets:
+  apple_touch_icon: "/assets/apple-touch-icon.png"
+
+params:
+  env: production
+  ShowBreadCrumbs: true
+  ShowToc: true
+  description: "Craig Knoblauch's professional blog"
+  author: Craig Knoblauch
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+
+  homeInfoParams:
+    Title: Hi there 👋 
+    Content: I am a seasoned software engineer with several years of experience spanning defense, fintech, and aerospace. I'm proud to be developing space technology at the U.S. Naval Research Laboratory. My passion and ability to deliver robust software solutions is complemented by my exceptional communication and leadership of cross-disciplinary teams.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/CraigKnoblauch"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/craig-knoblauch-b88563124"
+    - name: email
+      url: "mailto:craigknoblauch@gmail.com"
+    - name: X
+      url: "https://x.com/craigknoblauch"
+
