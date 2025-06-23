@@ -13,6 +13,9 @@ menu:
 assets:
   apple_touch_icon: "/assets/apple-touch-icon.png"
 
+cover:
+  image: "/assets/kestrel2.png"
+
 params:
   env: production
   ShowBreadCrumbs: true
