@@ -1,7 +1,7 @@
 baseURL: https://craigk.me
 languageCode: en-us
 title: Craig Knoblauch
-theme: ["PaperMod"]
+theme: ["PaperModCK"]
 
 menu:
   main:
