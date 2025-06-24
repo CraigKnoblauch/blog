@@ -10,10 +10,6 @@ menu:
     - name: Resume
       url: https://drive.google.com/file/d/1q3qX4lHtOwgXbwCQicCOyJ9uc8KG6TYD/view?usp=drivesdk
 
-
-cover:
-  image: "/assets/kestrel2.png"
-
 params:
   env: production
   ShowBreadCrumbs: true
@@ -30,6 +26,9 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
     
+  images:
+    - "/assets/kestrel2.png"
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
