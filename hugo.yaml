@@ -10,8 +10,6 @@ menu:
     - name: Resume
       url: https://drive.google.com/file/d/1q3qX4lHtOwgXbwCQicCOyJ9uc8KG6TYD/view?usp=drivesdk
 
-assets:
-  apple_touch_icon: "/assets/apple-touch-icon.png"
 
 cover:
   image: "/assets/kestrel2.png"
@@ -31,6 +29,13 @@ params:
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
+    
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   homeInfoParams:
     Title: Hi there 👋 
