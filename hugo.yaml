@@ -26,8 +26,8 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
     
-  images:
-    - "/assets/og-kestrel2.png"
+  #images:
+  #  - "/assets/og-kestrel2.png"
 
   assets:
     favicon: "/favicon.ico"
