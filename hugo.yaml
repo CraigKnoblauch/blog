@@ -27,7 +27,7 @@ params:
   ShowPageNums: true
     
   images:
-    - "/assets/kestrel2.png"
+    - "/assets/og-kestrel2.png"
 
   assets:
     favicon: "/favicon.ico"
