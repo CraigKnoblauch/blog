@@ -41,7 +41,7 @@ params:
     Content: |
       I'm a seasoned software engineer with 8 years of experience spanning aerospace, fintech, and defense. Currently I develop testing software for spacecraft with the U.S. Naval Research Laboratory in Washington D.C. 🇺🇸
 
-      In my off hours, I'm exploring the technologies of AI infrastructure. The problems are extremely interesting to me and relate closely to my professional work.
+      In my off hours, I'm exploring the technologies of AI eval, test, and observability. The problems are extremely interesting to me and relate closely to my professional work.
 
   socialIcons:
     - name: github
