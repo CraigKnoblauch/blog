@@ -27,9 +27,10 @@ _"What do you mean what's the point?!"_
 Literally, my friends would load into my site (if they didn't think it was broken from the long load times), be confused as to what the point of the website was, then close it. All the other engineering that was so cool to me, didn't matter at all to end users. Remember, these are my friends. They're giving me much more leeway than a real user would. 
 
 After I showed them what it was and how to use it I received feedback like:
-The controls are unintuitive
-The player moves too slow
-The camera doesn't move right
+
+- The controls are unintuitive
+- The player moves too slow
+- The camera doesn't move right
 
 It's almost like an engineer who works in aerospace test infrastructure attempted to make a design heavy user experience. 
 
