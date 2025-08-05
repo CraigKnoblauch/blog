@@ -10,7 +10,7 @@ One of the most common forms of personal financial data is a paper receipt. In t
 
 The driving requirement for me is friction. I want there to be as little as possible. In operation, there have to be as little actions necessary from me to get a receipt into an ingestion engine. Keeping the amount of actions low makes it much more likely I'll stick to the process in my daily life. In development, there must be as little code as is necessary to ensure reliable execution. I don't want to have to install anything, and I want to maintain as little as possible. 
 
-The most obvious vector with which to upload a receipt into the engine is my smartphone. It's with me almost every time I receive a receipt. I use an iPhone, and iOS has a reputation for having limited configurability by a user. But iOS has a trick up its sleeve. iOS shortcuts allow you to [make standard HTTP requests to API endpoints](https://support.apple.com/guide/shortcuts/request-your-first-api-apd58d46713f/ios). With a simple web API, and a few chained lambda functions, I set up a small AWS architecture to ingest and store my receipts.
+The most conveniant way to provide a receipt is with my smartphone. It's with me almost every time I receive a receipt. I use an iPhone, and iOS has a reputation for having limited configurability by a user. But iOS has a trick up its sleeve. iOS shortcuts allow you to [make standard HTTP requests to API endpoints](https://support.apple.com/guide/shortcuts/request-your-first-api-apd58d46713f/ios). With a simple web API, and a few chained lambda functions, I set up a small AWS architecture to ingest and store my receipts.
 
 ![](ios-shortcut.jpg)
 
